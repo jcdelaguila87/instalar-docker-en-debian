@@ -27,7 +27,7 @@ Si algo falla, el script escribe un log **`install-docker-debian.log`** en la ca
 ## Cómo lo ejecuto
 
 ```bash
-git clone https://github.com/TU_USUARIO/instalar-docker-en-debian.git
+git clone https://github.com/jcdelaguila87/instalar-docker-en-debian.git
 cd instalar-docker-en-debian
 chmod +x install-docker-debian.sh
 ./install-docker-debian.sh
